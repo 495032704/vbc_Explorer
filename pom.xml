@@ -22,7 +22,7 @@
 		<jackson.version>2.9.0</jackson.version>
 		<ip2region.version>1.4</ip2region.version>
         <mybatis.version>3.2.8</mybatis.version>
-        <mysql-driver.version>5.1.29</mysql-driver.version>
+        <mysql-driver.version>8.0.28</mysql-driver.version>
 	</properties>
   <dependencies>
   <!-- 添加mybatis依赖 -->
